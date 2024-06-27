@@ -1,5 +1,7 @@
-# 기본 설치 - 가상환경 ( 포이트리 )
-    - 포이트리 설치
+# 기본 설치 - 가상환경 ( 포이트리 )  
+
+    - 포이트리 설치  
+
     ```bash
     poetry new .
     ```
@@ -15,6 +17,7 @@
         - 소셜 인증과 계정 관리 기능
       - django-htmx
         - htmx를 django 내에서 사용가능하게함.
+
     ```bash
     poetry add django pillow django-cleanup django-allauth django-htmx
     ```
