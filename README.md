@@ -2,9 +2,9 @@
 
     - 포이트리 설치  
 
-    ```bash
+    ```bash  
     poetry new .
-    ```
+    ```  
 
     - 패키지설치 ( 장고 필로우 클린업 올오스 htmx)
       - django
